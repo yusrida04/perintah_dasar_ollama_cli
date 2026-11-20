@@ -1,0 +1,1 @@
+# perintah_dasar_ollama_cli
